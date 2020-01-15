@@ -25,7 +25,7 @@ license :project_license
 
 skip_transitive_dependency_licensing true
 
-version("0.10") { source md5: "b7f8cf5c6881cbf7a29c9bfb3fd93cd4" }
+version("0.10") { source md5: "228ade8c1b4033670bcf7f77c0ea1fb7" }
 
 source url: "https://nixos.org/releases/patchelf/patchelf-#{version}/patchelf-#{version}.tar.gz"
 
