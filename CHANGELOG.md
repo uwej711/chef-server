@@ -5,6 +5,19 @@
 
 #### Merged Pull Requests
 - Minor integration_test pipeline tweaks [#1883](https://github.com/chef/chef-server/pull/1883) ([christopher-snapp](https://github.com/christopher-snapp))
+
+<!-- latest_release 13.1.29 -->
+## [13.1.29](https://github.com/chef/chef-server/tree/13.1.29) (2020-01-14)
+
+#### Merged Pull Requests
+- Bump rack from 2.0.7 to 2.0.8 in /oc-chef-pedant [#1872](https://github.com/chef/chef-server/pull/1872) ([dependabot[bot]](https://github.com/dependabot[bot]))
+
+<!-- latest_release 13.1.25 -->
+## [13.1.25](https://github.com/chef/chef-server/tree/13.1.25) (2019-12-13)
+
+#### Merged Pull Requests
+- Add scenario for chef-backend [#1860](https://github.com/chef/chef-server/pull/1860) ([christopher-snapp](https://github.com/christopher-snapp))
+
 <!-- latest_release -->
 
 <!-- release_rollup since=13.1.13 -->
